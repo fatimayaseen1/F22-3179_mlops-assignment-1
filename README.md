@@ -1,16 +1,23 @@
 # MLOps Assignment 1 — mlops-assignment-1
 
 ## Objective
-Train and compare multiple ML models and log experiments using MLflow. Register best model.
+This project is for Assignment 1 of MLOps.  
+It involves:
+- Training and comparing ML models
+- Using MLflow for experiment tracking
+- Registering the best model
 
 ## Project structure
-- data/ - raw and processed datasets
-- notebooks/ - exploration notebooks
-- src/ - training and utility scripts
-- models/ - saved trained models
-- results/ - plots and screenshots
-- README.md
-- requirements.txt
+- data/ - datasets
+- notebooks/ - Jupyter notebooks
+- src/ - source code for training
+- models/ - saved ML models
+- results/ - metrics, plots, screenshots
+- README.md - documentation
+- requirements.txt - dependencies
 
-## How to run (basic)
+## How to run
 1. Clone repo:
+   ```bash
+   git clone https://github.com/fatimayaseen1/F22-3179_mlops-assignment-1.git
+   cd mlops-assignment-1
