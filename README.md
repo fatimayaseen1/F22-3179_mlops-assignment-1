@@ -72,9 +72,9 @@ For each model I logged:
 
 ---
 
-## 4. Monitoring & Model Registration (I form)
+## 4. Monitoring & Model Registration 
 
-1. **Monitoring MLflow runs **  
+1. Monitoring MLflow runs  
    - I started the MLflow UI (`mlflow ui`) and navigated to `http://127.0.0.1:5000`.  
    - I verified each run logged parameters, metrics (accuracy, precision, recall, F1), and artifacts (confusion matrix PNG, evaluation CSV and plots).  
    - I used the Experiments view to compare runs side-by-side.
@@ -101,7 +101,7 @@ For each model I logged:
 ## 5. How to run the project (reproducibility)
 
 ### 1. Clone & setup
-```bash
+
 git clone https://github.com/<your-username>/mlops-assignment-1.git
 cd mlops-assignment-1
 python -m venv .venv
