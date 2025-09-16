@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score
+LogisticRegression,0.9722222222222222,0.9777777777777779,0.9761904761904763,0.9761600681140911
+RandomForestClassifier,1.0,1.0,1.0,1.0
+SVC,1.0,1.0,1.0,1.0

@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score
+LogisticRegression,1.0,1.0,1.0,1.0
+RandomForestClassifier,1.0,1.0,1.0,1.0
+SVC,1.0,1.0,1.0,1.0
